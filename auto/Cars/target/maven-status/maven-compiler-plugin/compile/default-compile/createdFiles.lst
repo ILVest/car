@@ -1,0 +1,8 @@
+Car_dealership\Cars\Repositories\Cars_Repository.class
+Car_dealership\Cars\Controller\MainController.class
+Car_dealership\Cars\Models\Cars.class
+Car_dealership\Cars\Models\Cars_dealership.class
+Car_dealership\Cars\Services\Cars_dealership_Service.class
+Car_dealership\Cars\CarsApplication.class
+Car_dealership\Cars\Services\Cars_Service.class
+Car_dealership\Cars\Repositories\Cars_dealership_Repository.class
